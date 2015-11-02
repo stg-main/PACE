@@ -1,3 +1,6 @@
 [submodule "REScala"]
 	path = REScala
 	url = https://github.com/guidosalva/REScala.git
+[submodule "i3QL"]
+	path = i3QL
+	url = https://github.com/seba--/i3QL.git
